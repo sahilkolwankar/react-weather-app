@@ -1,0 +1,5 @@
+// This is a JSON file
+{
+    "presets": ["env", "react"],
+    "plugins": ["transform-class-properties"]
+}
