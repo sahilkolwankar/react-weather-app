@@ -19,7 +19,7 @@
     "chart.js": "^2.8.0",
     "css-loader": "0.28.4",
     "live-server": "^1.2.1",
-    "node-sass": "4.5.3",
+    "node-sass": "4.13.1",
     "normalize.css": "7.0.0",
     "react": "16.0.0",
     "react-chartjs-2": "^2.7.6",
